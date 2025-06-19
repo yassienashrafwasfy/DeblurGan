@@ -29,7 +29,7 @@ This Space demonstrates a GAN-based image deblurring model using Gradio and Tens
 
 - **Architecture**: Custom U-Net style Deblur GAN x Res-Net Bottleneck 
 - **loss**: LSGAN for Stable training,Perceptual_loss,SSIM,Psnr,Feature_loss from D
-- **Training Settings**: Inst Norm,PatchGAN,TTUR,Beta_1 for Adam=0.0,MultiScale (D1,D2,D3)
+- **Training Settings**: Inst Norm,SpectralNorm,PatchGAN,TTUR,Beta_1 for Adam=0.0,MultiScale (D1,D2,D3)
 - **Framework**: TensorFlow 2.x  
 - **Trained on**: GoPro, CelebA, and TextOCR,Helen blur datasets  
 - **Train time**: ~5 hours and 30 minutes on T4 GPU
