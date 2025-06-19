@@ -1,0 +1,5 @@
+tensorflow
+gradio
+Pillow
+numpy
+matplotlib
