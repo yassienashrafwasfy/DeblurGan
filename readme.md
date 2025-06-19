@@ -19,7 +19,7 @@ This Space demonstrates a GAN-based image deblurring model using Gradio and Tens
 ---
 
 ## Gradio Setup
-## 📸 Example Input vs Output
+## 📸
 
 | UI Gradio  |
 |--------------|
